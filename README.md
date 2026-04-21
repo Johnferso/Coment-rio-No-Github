@@ -12,8 +12,27 @@ Este repositório contém um novo projeto simples e educativo **todos os dias**.
       4. 4. **Embaralhador de Palavras** - Adivinhe palavras embaralhadas
          5. 5. **Projeto de Agente Local** - Projetos com IA/ML
            
-            6. ## 📅 Projeto de Hoje - 20/04/2026
+6. ## 📅 Projetos Publicados
+
+7. ### 21 de Abril de 2026 - 🧮 Calculadora
+
+8. Uma calculadora interativa com operacoes matematicas basicas!
+
+9. **Funcionalidades:**
+10. - Adicao, subtracao, multiplicacao, divisao e potencia
+    - - Interface em portugues e ingles
+      - - Historico de calculos
+        - - Validacao de entrada
+          - - Menu interativo
            
+            - **Como executar:**
+            - ```bash
+              python calculator.py
+              ```
+         
+              ---
+         
+              ### 20 de Abril de 2026 - 🎮 Word Scrambler           
             7. ### 🎮 Word Scrambler - Embaralhador de Palavras
            
             8. Um jogo onde você adivinha palavras originais a partir de versões embaralhadas!
