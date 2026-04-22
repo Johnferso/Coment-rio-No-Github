@@ -14,7 +14,27 @@ Este repositório contém um novo projeto simples e educativo **todos os dias**.
            
 6. ## 📅 Projetos Publicados
 
-7. ### 21 de Abril de 2026 - 🧮 Calculadora
+### 22 de Abril de 2026 - 🎮 Embaralhador de Palavras (Word Scrambler)
+
+Um jogo educativo onde você adivinha palavras originais a partir de versões embaralhadas! 
+A fun word-guessing game where you unscramble letters to form words!
+
+**Funcionalidades / Features:**
+- 16 palavras temáticas (português e inglês)
+- - Sistema de pontuação completo
+  - - Interface bilíngue (português e inglês)
+    - - Menu interativo com opções de jogo e estatísticas
+      - - Dicas de comprimento da palavra
+        - - Validação de entrada
+          -
+          - **Como executar / How to run:**
+          - ```bash
+            python word_scrambler_2026-04-22.py
+            ```
+
+            ---
+
+            7. ### 21 de Abril de 2026 - 🧮 Calculadora
 
 8. Uma calculadora interativa com operacoes matematicas basicas!
 
