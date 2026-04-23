@@ -14,6 +14,25 @@ Este repositório contém um novo projeto simples e educativo **todos os dias**.
            
 6. ## 📅 Projetos Publicados
 
+7. ### 23 de Abril de 2026 - 🧮 Calculadora (Simple Calculator)
+
+8. Uma calculadora interativa com operações matemáticas básicas em Python!
+9. An interactive calculator with basic mathematical operations in Python!
+
+10. **Funcionalidades / Features:**
+11. - Adição, subtração, multiplicação, divisão e potência
+    - - Cálculo de raiz quadrada
+      - - Interface interativa em português e inglês
+        - - Tratamento de erros (divisão por zero, números negativos)
+          - - Menu interativo com opções numeradas
+           
+            - **Como executar / How to run:**
+            - ```bash
+              python calculadora_20260423.py
+              ```
+
+              ---
+
 ### 22 de Abril de 2026 - 🎮 Embaralhador de Palavras (Word Scrambler)
 
 Um jogo educativo onde você adivinha palavras originais a partir de versões embaralhadas! 
