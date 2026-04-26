@@ -42,6 +42,56 @@ python jogo_da_velha_2026-04-25.py
              0 | 1 | 2
             -----------
              3 | 4 | 5
+
+            ### 2026-04-26: Jogo da Velha (Tic-Tac-Toe) 🎮
+
+            **Arquivo / File:** `jogo_da_velha_2026_04_26.py`
+
+            **Descrição / Description:** Um jogo clássico da velha (Tic-Tac-Toe) para dois jogadores. Os jogadores alternam entre as marcas 'X' e 'O' tentando formar uma linha (horizontal, vertical ou diagonal) com três símbolos iguais.
+
+            A classic Tic-Tac-Toe game for two players. Players alternate between 'X' and 'O' marks trying to form a line (horizontal, vertical, or diagonal) with three identical symbols.
+
+            **Como Executar / How to Run:**
+
+            ```bash
+            python jogo_da_velha_2026_04_26.py
+            ```
+         
+            **Recursos Principais / Key Features:**
+         
+            - ✅ Interface em linha de comando / Command-line interface
+            - - ✅ Detecção de vitória automática / Automatic win detection
+              - - ✅ Validação de posições válidas / Valid position checking
+                - - ✅ Suporte a múltiplas partidas / Multiple game support
+                  - - ✅ Comentários em português e inglês / Comments in Portuguese and English
+                    - - ✅ Código bem estruturado e educacional / Well-structured and educational code
+                     
+                      - **Exemplo de Uso / Usage Example:**
+                     
+                      - ```
+                        =========================
+                        Welcome to Tic-Tac-Toe!
+                        Bem-vindo ao Jogo da Velha!
+                        =========================
+
+                        Positions / Posições (1-9):
+                         1 | 2 | 3
+                        -----------
+                         4 | 5 | 6
+                        -----------
+                         7 | 8 | 9
+
+                        Player X's turn / Turno do Jogador X
+                        Enter position (1-9) / Digite a posição (1-9): 5
+
+                         X |   |
+                        -----------
+                           | X |
+                        -----------
+                           |   |
+                        ```
+         
+                        ---
             -----------
              6 | 7 | 8
 
