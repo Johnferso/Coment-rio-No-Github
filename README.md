@@ -101,6 +101,74 @@ python jogo_da_velha_2026-04-25.py
 
             ---
 
+            ### 2026-04-29: Calculadora de Juros Compostos (Compound Interest Calculator) 💰
+
+            **Arquivo / File:** `calculadora-juros-compostos-2026-04-29.py`
+
+            **Descrição / Description:** Uma calculadora de juros compostos com suporte a depósitos mensais regulares. Calcula o valor final do investimento, juros ganhos e oferece exemplos práticos de diferentes cenários.
+
+            A compound interest calculator with support for regular monthly deposits. Calculates final investment value, interest earned, and provides practical examples of different investment scenarios.
+
+            **Como Executar / How to Run:**
+
+            ```bash
+            python calculadora-juros-compostos-2026-04-29.py
+            ```
+         
+            **Recursos Principais / Key Features:**
+         
+            - ✅ Cálculo de juros compostos com diferentes frequências (mensalmente, anualmente, etc.)
+            - - ✅ Suporte para depósitos mensais regulares
+              - - ✅ Cálculo detalhado com juros ganhos
+                - - ✅ Exemplos práticos inclusos
+                  - - ✅ Interface amigável em português e inglês
+                    - - ✅ Código bem estruturado e comentado
+                     
+                      - - ✅ Compound interest calculation with different compounding frequencies
+                        - - ✅ Support for regular monthly deposits
+                          - - ✅ Detailed calculation with interest earned
+                            - - ✅ Practical examples included
+                              - - ✅ User-friendly interface in Portuguese and English
+                                - - ✅ Well-structured and commented code
+                                 
+                                  - **Exemplo de Uso / Usage Example:**
+                                 
+                                  - ```
+                                    ╔════════════════════════════════════════════════════╗
+                                    ║  Calculadora de Juros Compostos                    ║
+                                    ║  Compound Interest Calculator                      ║
+                                    ╚════════════════════════════════════════════════════╝
+
+                                    ==================================================
+                                    Exemplo 1: Juros Compostos Mensais / Example 1: Monthly Compound Interest
+                                    ==================================================
+                                    Principal: 1000.0
+                                    Final Amount: 1283.23
+                                    Interest Earned: 283.23
+                                    Annual Rate: 5.0
+                                    Years: 5
+                                    Compounds Per Year: 12
+
+                                    ==================================================
+                                    Exemplo 2: Com Depósitos Mensais / Example 2: With Monthly Deposits
+                                    ==================================================
+                                    Principal: 500.0
+                                    Monthly Deposit: 100.0
+                                    Total Deposited: 12500.0
+                                    Final Amount: 14573.45
+                                    Interest Earned: 2073.45
+                                    Years: 10
+                                    Annual Rate: 8.0
+                                    ```
+         
+                                    **Conceitos Aprendidos / Concepts Learned:**
+         
+                                    - Matemática Financeira / Financial Mathematics
+                                    - - Progressão Geométrica / Geometric Progression
+                                      - - Juros Compostos / Compound Interest Formula
+                                        - - Estrutura de Classes / Class Structure
+                                          - - Type Hints em Python / Type Hints in Python
+
             ## 🔧️ Tecnologias / Technologies
 
             - **Python 3.7+**
