@@ -171,6 +171,46 @@ python jogo_da_velha_2026-04-25.py
 
             ## 🔧️ Tecnologias / Technologies
 
+### 2026-04-30: Embaralhador de Palavras (Word Scrambler) 🔀
+
+**Arquivo / File:** `word_scrambler-2026-04-30.py`
+
+**Descrição / Description:**
+Um jogo de adivinhas onde o jogador tenta descobrir palavras a partir de versões embaralhadas. O jogo oferece 3 rodadas com um sistema de pontuação baseado no número de tentativas.
+
+*A guessing game where the player tries to discover words from scrambled versions. The game offers 3 rounds with a scoring system based on the number of attempts.*
+
+**Como Executar / How to Run:**
+```bash
+python word_scrambler-2026-04-30.py
+```
+
+**Recursos Principais / Key Features:**
+- ✅ 15 palavras em inglês e português / 15 words in English and Portuguese
+- - ✅ 3 rodadas por jogo / 3 rounds per game
+  - - ✅ Sistema de pontuação / Scoring system
+    - - ✅ Interface interativa em linha de comando / Interactive command-line interface
+      - - ✅ Suporte bilíngue / Bilingual support
+        - - ✅ Limpar tela entre rodadas / Clear screen between rounds
+          - - ✅ Comentários em português e inglês / Comments in Portuguese and English
+           
+            - **Exemplo de Uso / Usage Example:**
+            - ```
+              ==================================================
+                WORD SCRAMBLER / EMBARALHADOR DE PALAVRAS
+              ==================================================
+
+              Round 1 / Rodada 1: 3
+              Scrambled Word / Palavra Embaralhada: MGORARP
+
+              Your guess / Seu palpite: programming
+              ✓ Correct! / Correto! (Points: 4)
+              Total Score / Pontuação Total: 4
+              ```
+         
+              ---
+         
+              
             - **Python 3.7+**
             - - **Biblioteca Padrão / Standard Library only**
              
@@ -211,4 +251,4 @@ python jogo_da_velha_2026-04-25.py
 
                                      ---
 
-                                     **Última Atualização / Last Updated:** 25 de Abril de 2026 | April 25, 2026
+                                     **Última Atualização / 254:** 25 de Abril de 2026 | April 25, 2026
