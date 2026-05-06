@@ -10,6 +10,25 @@ Um repositório com um novo projeto Python simples a cada dia!
 
 ## 📋 Projetos / Projects
 
+### 2026-05-06: Calculadora de Juros Compostos (Compound Interest Calculator) 💰
+
+**Arquivo / File:** `calculadora_juros_compostos_2026_05_06.py`
+
+**Descrição / Description:** Uma calculadora educacional de juros compostos com menu interativo. Permite calcular valores finais, comparar diferentes taxas de juros, e entender como investimentos crescem com juros compostos.
+
+An educational compound interest calculator with interactive menu. Allows calculating final values, comparing different interest rates, and understanding how investments grow with compound interest.
+
+**Como Executar / How to Run:**
+\`\`\`bash
+python calculadora_juros_compostos_2026_05_06.py
+\`\`\`
+
+**Recursos Principais / Key Features:**
+- ✅ Cálculo de juros compostos / Compound interest calculation
+- - ✅ Menu interativo em português e inglês / Interactive bilingual menu
+  - - ✅ Comparação de diferentes taxas / Compare interest rates
+    - - ✅ Suporte a customização de parâmetros / Customizable parameters
+      - - ✅ Código bem comentado / Well-commented code
 ### 2026-04-25: Jogo da Velha (Tic-Tac-Toe) ♙️
 
 **Arquivo / File:** `jogo_da_velha_2026-04-25.py`
