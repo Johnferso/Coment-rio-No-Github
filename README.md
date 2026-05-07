@@ -10,7 +10,54 @@ Um repositório com um novo projeto Python simples a cada dia!
 
 ## 📋 Projetos / Projects
 
-### 2026-05-06: Calculadora de Juros Compostos (Compound Interest Calculator) 💰
+---
+
+### 2026-05-07: Projeto de Agente Local (Local Agent Project) 🤖
+
+**Arquivo / File:** `agente_local_2026-05-07.py`
+
+**Descrição / Description:**
+Um agente autônomo inteligente para planejamento e priorização de tarefas. O agente utiliza um algoritmo de pontuação de prioridade para organizar tarefas baseado em múltiplos fatores como prioridade, data de vencimento e urgência.
+
+*An intelligent autonomous agent for task planning and prioritization. The agent uses a priority scoring algorithm to organize tasks based on multiple factors such as priority, due date, and urgency.*
+
+**Como Executar / How to Run:**
+```bash
+python agente_local_2026-05-07.py
+```
+
+**Recursos Principais / Key Features:**
+- ✅ Sistema inteligente de priorização de tarefas / Intelligent task prioritization system
+- - ✅ Algoritmo de pontuação baseado em múltiplos fatores / Multi-factor scoring algorithm
+  - - ✅ Suporte a datas de vencimento / Support for due dates
+    - - ✅ Interface interativa para adicionar e gerenciar tarefas / Interactive interface for task management
+      - - ✅ Rastreamento de tarefas concluídas / Completion tracking
+      - ✅ Comentários em português e inglês / Comments in Portuguese and English
+      - - ✅ Código bem estruturado com classe TaskAgent / Well-structured code with TaskAgent class
+        - - ✅ Demonstração prática com exemplos / Practical demonstration with examples
+          -
+          - **Exemplo de Uso / Usage Example:**
+          - ```
+            ✓ Tarefa adicionada / Task added: Estudar Python
+
+            ============================================================
+            AGENDA DO AGENTE / AGENT'S SCHEDULE
+            ============================================================
+
+            1. [○] Ler documentação
+               Prioridade / Priority: 5/5
+               Data de vencimento / Due: 2026-05-07
+               Score: 100.0
+
+            2. [○] Revisar código
+               Prioridade / Priority: 4/5
+               Data de vencimento / Due: 2026-05-09
+               Score: 90.0
+
+            ✓ Tarefa concluída / Task completed: Ler documentação
+            ```
+
+            ### 2026-05-06: Calculadora de Juros Compostos (Compound Interest Calculator) 💰
 
 **Arquivo / File:** `calculadora_juros_compostos_2026_05_06.py`
 
